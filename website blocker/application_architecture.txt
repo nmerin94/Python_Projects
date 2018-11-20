@@ -1,0 +1,2 @@
+windows path: C:\Windows\System32\drivers\etc\hosts
+linux/mac : /etc/hosts
